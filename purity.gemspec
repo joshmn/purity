@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.name = "purity"
   s.version = Purity::VERSION
   s.summary = "a simple static site generator"
-  s.description = "templates, partials, conditionals, loops, layouts, blog, plugins. nothing else."
+  s.description = "A static site generator for templates, partials, conditionals, loops, layouts, blog, plugins. nothing else."
   s.authors = ["Josh Brody"]
   s.email = "josh@josh.mn"
   s.homepage = "https://github.com/joshmn/purity"
